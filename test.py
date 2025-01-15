@@ -1,3 +1,3 @@
 #Test
-
-print("This is a test")
+StrTest = "This is a test"
+print(StrTest)
